@@ -1,0 +1,23 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.kamiskidder.shgr.mixin.mixins",
+  "client": [
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinEntity",
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinEntityLivingBase",
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinEntityPlayer",
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinEntityPlayerSP",
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinEntityRenderer",
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinItemRenderer",
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinMinecraft",
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinMovementInputFromOptions",
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinNetworkManager",
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinPlayerControllerMP",
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinRenderLivingBase",
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinRenderPlayer",
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinTextureUtil"
+  ],
+  "mixins": [
+    "com.Kometarou.OkomeClient.mixin.mixins.AccessorSplashProgress",
+    "com.Kometarou.OkomeClient.mixin.mixins.MixinSplashProgress"
+  ]
+}

@@ -1,0 +1,4 @@
+Base Client:https : //github.com/KamiSkidder/shgr-client
+Dev : kometarou(Discord : こめたろう#5962)
+Discord Community : https://discord.gg/SKhdtpsHcM
+Discord Bot : https://discord.com/api/oauth2/authorize?client_id=994876839812141077&permissions=8&scope=bot
